@@ -1,0 +1,22 @@
+orgaaans
+
+1.	-brain		imp		e
+2.	-oesophagus			
+3.	-trachea	imp		e
+4.	-stomach	opt		
+5.	-spleen				
+6.	-pancreas			
+7.	-liver				
+8.	-kidneys			e
+9.	-colon		imp		p
+10.	-appendix			p
+11.	-rectum		imp		p
+12.	-bladder	opt		
+13.	-penis		opt		
+14.	-muscles	opt		
+
+
+
+
+
+Copyright 2017 Bionic Entertainment

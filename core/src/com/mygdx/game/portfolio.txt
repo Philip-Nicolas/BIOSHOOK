@@ -1,0 +1,25 @@
+BIOSHOOK™ Portfolio.
+
+Poem used to test out rendering of BitmapFonts:
+    "Testing the software to see if it works. If it works i will be happy, if it doesn't i'll jump off a bridge."
+        - Philip-Nicolas Varga
+
+Code inserted while I wasn't at the computer, by the IT director at Glendon University:
+    /**
+     * Filo.... I'm watching you.
+     *
+     * @param whatDoYouWant what do u want
+     * @return what i want
+     /
+
+    public String filissimo (String whatDoYouWant) {
+
+        if ("".equals (whatDoYouWant)) {
+            return "What the?  Say something";
+        } else if ("to kill you".equals (whatDoYouWant)) {
+            return "go ahead make my day.";
+        } else {
+            return "Leave me alone... I have work to do.";
+        }
+
+    }
